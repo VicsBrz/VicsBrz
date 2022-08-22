@@ -4,8 +4,11 @@
 
 
 Eu tenho 16 anos.
+
 Sou estudante do Novo Ensino Médio.
+
 Estou começando na programação.
+
 Gosto de ler livros de mistério e ficção.
 
 <h3 align="left">Linguagens:</h3>
